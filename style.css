@@ -1,0 +1,40 @@
+.main{
+    width: 400px;
+    border: 2px solid #444444;
+    margin: 10px auto;
+    background-color: rgb(196, 196, 196);
+    text-align:center;
+}
+.layar{
+    height: 60px;
+    width: 300px;
+}
+body{
+    margin: 0%;
+    background: #ffffffff;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    margin: 3px auto;
+    cursor: pointer;
+}
+.angka{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    width: 250px;
+}
+.main .operasi{
+    position: absolute; 
+    margin: 10px 2px 2px 240px;
+    width: 140px;
+    top:145px;
+}
+.samadengan{
+    width: 123px;
+    height: 126px;
+    position: absolute;
+    top: 287px;
+    margin:3px 2px 2px 48px; 
+    cursor: pointer;
+}
